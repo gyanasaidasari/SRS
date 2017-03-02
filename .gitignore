@@ -86,7 +86,7 @@ Our Plan:
 
 
 2. General Description 
-2.1 Product Perspective 
+2.1 ProductPerspective 
 FSP is aimed toward the people who considers about their health and to find healthy food in restaurants and hotels where it provide an application which allows residents and users to find out more about food-related aspects about a particular city. FSP should be user-friendly, ‘quick to learn’ and reliable software for the above purpose.
 FSP is intended to be a stand-alone product and should not depend on the availability of other software. It should run on both UNIX and Windows based platform. 
  
